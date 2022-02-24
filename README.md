@@ -3,4 +3,6 @@ These are deep learning projects I have built in my BYU Computer Science 474 cou
 
 The projects replicate state-of-the-art Deep Learning techniques published in various academic papers, ranging from image style transfer, convolutional nerual networks, sequence to sequence text prediction, and transformer language translation.
 
+Boilerplate code was provided by my professor for data loading and various library installations. All other code was written by myself.
+
 
